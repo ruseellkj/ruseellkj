@@ -1,6 +1,6 @@
 # Greetings!
 - 👋 I'm Rushil Jariwala, currently into 2nd year Comps (NIT SURAT)
-- 🌱 I'm Currenly learning **Javascript,** **React.JS & Node.JS**
+- 🌱 I'm Currently learning **Javascript,** **React.JS & Node.JS**
 - 💫 I would love to contribute to the oepn source community 
 
 # Connect with me
