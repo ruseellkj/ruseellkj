@@ -9,7 +9,7 @@
 
 - 👯 I would love to contribute to the **open source community**
 
-- 📫 Reach me **rkjjariwala@gmail.com**
+- 📫 Reach me at **rkjjariwala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
