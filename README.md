@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushil Jariwala</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruseellkj&label=Profile%20views&color=0e75b6&style=flat" alt="ruseellkj" /> </p>
 
-- 🧔🏻‍♂️ I'm a Sophomore at **NIT Surat**
+- 🧔🏻‍♂️ I'm a Middler at **NIT Surat**
 
 - 👨‍💻 All of my projects are available at **https://github.com/ruseellkj**
 
