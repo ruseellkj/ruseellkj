@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/ruseellkj**
 
-- 🌱 I’m currently learning **Typescript, Prisma, DevOps**
+- 🌱 I’m currently learning **Angular, Docker**
 
 - 👯 I would love to contribute to the **open source community**
 
