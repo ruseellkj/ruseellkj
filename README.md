@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rushil Jariwala</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruseellkj&label=Profile%20views&color=0e75b6&style=flat" alt="ruseellkj" /> </p>
 
-- 🧔🏻‍♂️ I'm a Middler at **NIT Surat**
+- 🧔🏻‍♂️ I'm a Final Year Student at **NIT Surat**
 
 - 👨‍💻 All of my projects are available at **https://github.com/ruseellkj**
 
-- 🌱 I’m currently learning **Angular, Docker**
+- 🌱 I’m currently learning **Angular, Langchain and Docker**
 
 - 👯 I would love to contribute to the **open source community**
 
