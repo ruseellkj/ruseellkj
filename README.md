@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/ruseellkj**
 
-- 🌱 I’m currently learning **Angular, Langchain and Docker**
+- 🌱 I’m currently learning **Angular, Next.js**
 
 - 👯 I would love to contribute to the **open source community**
 
